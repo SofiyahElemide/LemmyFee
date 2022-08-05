@@ -1,7 +1,7 @@
-- 👋 Hi there, I’m @LemmyFee
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Data Science on Udemy
-- 💞️ I’m looking to collaborate on available data science projects
+- 👋 Hi there, I’m Sofiyah Elemide
+- 👀 I’m interested in Data Analytics and Machine Learning
+- 🌱 I’m currently learning Data Analytics and AWS Machine Learning on Udacity
+- 💞️ I’m looking to collaborate on available data analytics projects
 - 📫 How to reach me eniolaelemide@gmail.com
 
 <!---
